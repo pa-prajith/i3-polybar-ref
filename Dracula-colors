@@ -1,0 +1,26 @@
+[color]
+background = #282a36
+foreground = #f8f8f2
+black = #44475a
+red = #ff5555
+green = #50fa7b
+yellow = #f1fa8c
+blue = #bd93f9
+magenta = #ffb86c
+cyan = #ff79c6
+white = #fbf1c7
+altblack = #44475a
+altred = #ff5555
+altgreen = #50fa7b
+altyellow = #f1fa8c
+altblue = #83a598
+altmagenta = #ffb86c
+altcyan = #ff79c6
+altwhite = #f8f8f2
+
+
+barbackground = #00282a36
+occupied = #44475a
+active = #bd93f9
+
+
